@@ -8,14 +8,3 @@
   Me apasiona todo lo relacionado con el diseño y la programación.
 </p>
 
-<style>
-  img {
-    display: block;
-    margin: 15px auto;
-    border-radius: 10px;
-  }
-
-  h1, p {
-    text-align: center;
-  }
-</style>
