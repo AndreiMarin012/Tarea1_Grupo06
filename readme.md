@@ -8,3 +8,6 @@
   Me apasiona todo lo relacionado con el diseño y la programación.
 </p>
 
+<p>
+  Mi rol es descubrir cosas nuevas, me gusta explorar lo desconocido y me gustaría ser un gran ingeniero.
+</p>
