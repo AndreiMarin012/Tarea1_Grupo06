@@ -1,0 +1,5 @@
+# David Mauricio Luna Camelo
+
+![Foto David Luna] (Foto_DavidL.jpg)
+
+Estudiante de Ingeniería Multimedia en la UNAD. Pertenezco al grupo 213027_6 del curso Programación para Videojuegos. Me Encanta lo relacionado con programación y videojuegos.
