@@ -11,3 +11,19 @@
 <p>
   Mi rol es descubrir cosas nuevas, me gusta explorar lo desconocido y me gustaría ser un gran ingeniero.
 </p>
+<h2>David Silva</h2>
+
+<img src="David Silva/Foto.jpeg" alt="Foto David Silva" width="200">
+
+<p>
+<strong>Rol en la industria:</strong> Animador 3D<br>
+<strong>Ubicación:</strong> Tunja, Boyacá, Colombia
+</p>
+
+<p>
+Soy estudiante de ingeniería multimedia interesado en el desarrollo de videojuegos y la animación 3D.
+</p>
+
+<p>Comida favorita:</p>
+
+<img src="David Silva/Foto salchipapa.jpg" alt="Comida favorita David Silva" width="200">
